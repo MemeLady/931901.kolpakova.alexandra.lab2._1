@@ -1,0 +1,80 @@
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.exe
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.deps.json
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.runtimeconfig.json
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.runtimeconfig.dev.json
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.dll
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.pdb
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.Views.dll
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.Views.pdb
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.AssemblyInfoInputs.cache
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.AssemblyInfo.cs
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.csproj.CoreCompileInputs.cache
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.RazorAssemblyInfo.cache
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.RazorAssemblyInfo.cs
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\staticwebassets\Lab2.1.StaticWebAssets.Manifest.cache
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\staticwebassets\Lab2.1.StaticWebAssets.xml
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab2.1.styles.css
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.TagHelpers.input.cache
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.TagHelpers.output.cache
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.RazorCoreGenerate.cache
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.RazorTargetAssemblyInfo.cache
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.RazorTargetAssemblyInfo.cs
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.Views.pdb
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.dll
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.pdb
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.genruntimeconfig.cache
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.csproj.CopyComplete
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.csproj.AssemblyReference.cache
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessServiceDirectly.cshtml.g.cs
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingModel.cshtml.g.cs
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingViewBag.cshtml.g.cs
+C:\Users\Pro100SuperGirl\source\repos\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingViewData.cshtml.g.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.exe
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.deps.json
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.runtimeconfig.json
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.runtimeconfig.dev.json
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.dll
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.pdb
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.Views.dll
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\bin\Debug\netcoreapp3.1\Lab2.1.Views.pdb
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.csproj.AssemblyReference.cache
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.AssemblyInfoInputs.cache
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.AssemblyInfo.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.csproj.CoreCompileInputs.cache
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.MvcApplicationPartsAssemblyInfo.cache
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.RazorAssemblyInfo.cache
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.RazorAssemblyInfo.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\staticwebassets\Lab2.1.StaticWebAssets.Manifest.cache
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\staticwebassets\Lab2.1.StaticWebAssets.xml
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab2.1.styles.css
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.TagHelpers.input.cache
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.TagHelpers.output.cache
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.RazorCoreGenerate.cache
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessServiceDirectly.cshtml.g.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingModel.cshtml.g.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingViewBag.cshtml.g.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\PassUsingViewData.cshtml.g.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.RazorTargetAssemblyInfo.cache
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.RazorTargetAssemblyInfo.cs
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.Views.pdb
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.dll
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.pdb
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.genruntimeconfig.cache
+D:\u4eba\3-курс\Web технологии\931901.kolpakova.alexandra.lab2._1\Lab2.1\Lab2.1\obj\Debug\netcoreapp3.1\Lab2.1.csproj.CopyComplete

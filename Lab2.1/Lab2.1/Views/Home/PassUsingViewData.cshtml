@@ -1,0 +1,19 @@
+﻿@{ 
+    var nums = ViewData["Nums"] as Lab2._1.Services.Calc; 
+}
+@{ 
+    ViewData["Title"] = "PassUsingViewData"; 
+}
+<div class="container-fluid">
+    <h1>PassUsingViewData</h1>
+    <h3>Rand Value First : @nums.a</h3>
+    <h3>Rand Value Second : @nums.b</h3>
+    <h3>Add :</h3>
+    <p>@nums.Add()</p>
+    <h3>Sub :</h3>
+    <p>@nums.Sub()</p>
+    <h3>Mult :</h3>
+    <p>@nums.Mul()</p>
+    <h3>Div :</h3>
+    <p>@nums.Div()</p>
+</div>

@@ -1,0 +1,19 @@
+﻿@using Lab2._1.Services
+@inject Calc calc
+@{
+    ViewData["Title"] = "AccessServiceDirectly";
+}
+
+<div class="container-fluid">
+    <h1>AccessServiceDirectly</h1>
+    <h3>Rand Value First : @calc.a</h3>
+    <h3>Rand Value Second : @calc.b</h3>
+    <h3>Add :</h3>
+    <p>@calc.Add()</p>
+    <h3>Sub :</h3>
+    <p>@calc.Sub()</p>
+    <h3>Mult :</h3>
+    <p>@calc.Mul()</p>
+    <h3>Div :</h3>
+    <p>@calc.Div()</p>
+</div>
